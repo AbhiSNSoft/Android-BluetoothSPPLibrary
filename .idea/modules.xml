@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-BluetoothSPPLibrary.iml" filepath="$PROJECT_DIR$/Android-BluetoothSPPLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Android-BluetoothSPPLibrary-app.iml" filepath="$PROJECT_DIR$/app/Android-BluetoothSPPLibrary-app.iml" group="Android-BluetoothSPPLibrary/app" />
+      <module fileurl="file://$PROJECT_DIR$/library/Android-BluetoothSPPLibrary-library.iml" filepath="$PROJECT_DIR$/library/Android-BluetoothSPPLibrary-library.iml" group="Android-BluetoothSPPLibrary/library" />
       <module fileurl="file://$PROJECT_DIR$/BluetoothSPP.iml" filepath="$PROJECT_DIR$/BluetoothSPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-Android-BluetoothSPPLibrary.iml" filepath="$PROJECT_DIR$/android-Android-BluetoothSPPLibrary.iml" group="Android-BluetoothSPPLibrary" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
   </component>
 </project>
-
